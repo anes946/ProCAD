@@ -1,7 +1,7 @@
 # ProCAD — Professional CAD Software
 
 <p align="center">
-  <img src="assets/procad-banner.png" alt="ProCAD Banner" width="100%">
+  <img src="procad-banner.png" alt="ProCAD Banner" width="100%">
 </p>
 
 <h3 align="center">Professional 2D & 3D Computer-Aided Design</h3>
